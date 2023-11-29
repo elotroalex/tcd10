@@ -69,10 +69,11 @@ Opening remarks by organizer **Alex Gil** (Yale University).
 
 Moderator, **Laurent Dubois** (University of Virginia)
 
-**Taller Entre Aguas\' Registro Project Team**, "Taller Entre Aguas: Theory and Praxis in the Digital Revisitation of
-the 1872 Registro de Esclavos of Puerto Rico\"
+**Taller Entre Aguas' Registro Project Team**, “Taller Entre Aguas: Theory and Praxis in the Digital Revisitation of the 1872 Registro de Esclavos of Puerto Rico,"
+**Daniel Morales-Armstrong** (University of Pennsylvania), **Essah Diaz** (University of Puerto Rico, Río Piedras), **Gabriel J. Rivera Cotto** (Yale University), and **Jessica Marie Johnson** (John Hopkins University)
 
-**Early Caribbean Digital Archive Project Team**, "A Point of Entry: Re-presenting Enslaved Lives in the Early Caribbean Digital Archive"
+**Early Caribbean Digital Archive Project Team**, “A Point of Entry: Re-presenting Enslaved Lives in the Early Caribbean Digital Archive,”
+**Nicole Aljoe**, **Elizabeth Dillon**, **Reba Dickson**, **Carolina Larracilla**, **Hannah Kim** (Northeastern University), **Savita Maharaj** (Brandeis University), and **Darlene Uzoigwe** (Harvard University)
 
 ### 11:00AM--11:15AM | Break
 
@@ -123,17 +124,17 @@ Moderator, **Vincent Brown** (Harvard University)
 
 ### 5:15PM--5:35PM | Special: Artist/Scholar Conversation
 
-**Alicia Doyen-Rodríguez** (Emory University), \"Empreintes d\'art dans la ville (Art footprints in the city): digital collaboration with Guy Gabon\"
+**Alicia Doyen-Rodríguez** (Emory University), \"Empreintes d\'art dans la ville (Art footprints in the city): digital collaboration with **Guy Gabon**\"
 
 ### 5:45PM--6:30PM | Microgrant Showcase
 
 Moderator, **Alex Gil** (Yale University)
 
-**Maria Corredor** and **Ernesto Bassi** (Cornell University), "Atlantic Seascapes"
+**Maria Paula Corredor** and **Ernesto Bassi** (Cornell University), "Atlantic Seascapes"
 
 **Elise Mitchell** (Princeton University), "Smallpox and Slavery in the Modern Atlantic World"
 
-**Nicte Fuller-Medina** (Swarthmore College) and **Kevin Montero** (Belize Archives and Records Service), "Belize Archives Digital Archive"
+**Nicte Fuller Medina** (Swarthmore College) and **Kevin Montero** (Belize Archives and Records Service), "Belize Archives Digital Archive"
 
 **Sarah Bruno** (Michigan State University), and **Rosa Emilia Cordero Cruz** (Rutgers University), "The Criadas Project: Archival Silhouettes"
 

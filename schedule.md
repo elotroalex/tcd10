@@ -10,7 +10,7 @@ permalink: /schedule/
 
 ### 1:15PM--1:30PM | Welcome
 
-Welcome remarks by organizers **Alex Gil** and **Kaiama Glover** (Yale University).
+Welcome remarks by organizer **Kaiama Glover** (Yale University), and a moment of reflection and remembrance for **Halcyon Lawrence** by organizer **Kelly Josephs** (University of Miami).
 
 ### 1:30PM--2:30PM | Opening Showcase
 
@@ -31,7 +31,7 @@ of Puerto Rico at Río Piedra), \"Las caras lindas de Santurce\"
 
 ### 2:45PM--3:45PM | Panel A: Archives
 
-Moderator: **Kelly Baker Josephs** (University of Miami)
+Moderator: **Gabrielle Mary Jean-Louis** (University of Miami)
 
 **Rebecca Roach** (University of Birmingham), \"Brathwaite's Creole Computing\"
 
@@ -124,7 +124,7 @@ Moderator, **Vincent Brown** (Harvard University)
 
 ### 5:15PM--5:35PM | Special: Artist/Scholar Conversation
 
-**Alicia Doyen-Rodríguez** (Emory University), \"Empreintes d\'art dans la ville (Art footprints in the city): digital collaboration with **Guy Gabon**\"
+**Alicia Doyen-Rodríguez** (University of Massachusetts), \"Empreintes d\'art dans la ville (Art footprints in the city): digital collaboration with **Guy Gabon**\"
 
 ### 5:45PM--6:30PM | Microgrant Showcase
 
